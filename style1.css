@@ -1,0 +1,21 @@
+body{
+  background-image: url(images/bg.jpg);  
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+a:link{
+    color: hsl(298, 100%, 50%);
+}
+a:hover{
+    color: hsl(240, 100%, 48%);
+    font-size: 1.5em;
+}
+a:active{
+
+    color: hsl(143, 75%, 41%);
+    font-size: 1.8em;
+}
+a:visited{
+    color: brown;
+}
